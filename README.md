@@ -1,5 +1,8 @@
 # ChrultraCrap
 
+<img width="643" height="114" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/64319fd1-c3d2-4c79-b52d-5193155719fc" />
+
+
 ChultraCrap is an exploit for ChromeOS devices that exploits a technical vulnerability in RMA shims to unenroll and be able to do whatever you want with it, (The Chromebook)
 
 # ChrultraCrap is an exploit for ChromeOS kernel (or kernver version 3 or lower.)
